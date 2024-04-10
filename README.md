@@ -1,4 +1,4 @@
-ö# Merhaba, Benim Adım Kerem ARIDOĞAN
+# Merhaba, Benim Adım Kerem ARIDOĞAN
 
 👋 Hoş geldiniz! Benim GitHub profilimde bulunan projelerimle ilgileniyorsanız doğru yerdesiniz.
 
