@@ -1,4 +1,4 @@
-# Merhaba, Benim Adım Kerem ARIDOĞAN
+ö# Merhaba, Benim Adım Kerem ARIDOĞAN
 
 👋 Hoş geldiniz! Benim GitHub profilimde bulunan projelerimle ilgileniyorsanız doğru yerdesiniz.
 
@@ -25,4 +25,4 @@
 ![Ziyaretçi Sayacı](https://profile-counter.glitch.me/kullanici-adiniz/count.svg)
 
 ---
-© 2024 İsim Soyisim. Tüm hakları saklıdır.
+© 2024 Kerem ARIDOĞAN. Tüm hakları saklıdır.
