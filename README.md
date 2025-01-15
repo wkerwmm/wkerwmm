@@ -32,4 +32,4 @@
 ## Get in Touch
 
 - 📫 How to reach me: [Email me](mailto:aridogankerem40@gmail.com)
-- 
+
