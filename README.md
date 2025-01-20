@@ -8,7 +8,6 @@
 - 🌱 I’m learning more about **PHP** and **Java** to improve my skills.
 - 👯 I’m looking to collaborate on exciting web-based projects.
 - 🧑‍💻 I am experienced in **Frontend** and **Backend** development.
-- 💬 Ask me about **PHP**, **Java**, and **Web Development**.
 - ⚡ Fun fact: I love solving coding challenges and learning new frameworks.
 
 ## Technologies & Skills
