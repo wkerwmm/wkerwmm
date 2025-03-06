@@ -48,7 +48,5 @@
 
 ## Get in Touch
 
-## Get in Touch
-
 - 💬 How to reach me: [Discord](https://discord.com/users/1248962219945889832)
 
