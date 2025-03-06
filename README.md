@@ -10,7 +10,7 @@
 - 🧑‍💻 I am experienced in **Frontend** and **Backend** development.
 - ⚡ Fun fact: I love solving coding challenges and learning new frameworks.
 
-## 🚀 Language and Tools:
+## Language and Tools:
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
