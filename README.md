@@ -48,5 +48,7 @@
 
 ## Get in Touch
 
-- 📫 How to reach me: [Email me](mailto:aridogankerem40@gmail.com)
+## Get in Touch
+
+- 💬 How to reach me: [Discord](https://discord.com/users/1248962219945889832)
 
