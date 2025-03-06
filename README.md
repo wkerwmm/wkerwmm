@@ -28,7 +28,7 @@
 
 ![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkerwmm&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=wkerwmm&layout=compact&langs_count=3&theme=radical&hide_title=true&hide_border=true
+![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wkerwmm&layout=compact&langs_count=3&theme=radical&hide_title=true&hide_border=true)
 
 ## Get in Touch
 
