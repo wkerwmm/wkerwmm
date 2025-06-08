@@ -15,31 +15,33 @@ Hi! I'm **Kerem**, a passionate **Full Stack Web Developer** who loves creating 
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="left">
-  <!-- Core Languages -->
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <!-- Languages -->
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
 
   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
 
   <!-- Backend & Frameworks -->
-  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></a>
 
-  <!-- DevOps & Others -->
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+  <!-- DevOps, Databases, OS -->
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Cassandra"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 </p>
+
 
 ---
 
