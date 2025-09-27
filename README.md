@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/Iq9KzaH.png" alt="Kerem - Full Stack Developer" width="150" height="auto" />
-</p>
 
 <h1 align="center">👋 Hi, I’m Kerem</h1>
 <h3 align="center">Full Stack Developer | Systems Enthusiast | Open-Source Contributor</h3>
