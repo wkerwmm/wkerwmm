@@ -62,7 +62,6 @@
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/></a>
 </p>
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -100,4 +99,6 @@
 
 ---
 
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" style="max-width: 100%;"/>
+</p>
