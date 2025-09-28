@@ -73,7 +73,7 @@
 ### ⚙️ Package Managers
 <p align="center">
   <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/></a>
-  <a href="https://doc.rust-lang.org/cargo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50"/></a>
+  <a href="https://doc.rust-lang.org/cargo/"><img src=" https://crates.io/assets/cargo.png" width="50"/></a>
 </p>
 
 ### 💻 OS
