@@ -16,8 +16,10 @@
 - 🌱 Learning **Rust, Advanced Java, and Modern Cloud Infrastructure**  
 - 🤝 Open to **Open-Source Contributions & Startup Collaborations**  
 - 💻 Experienced in **Frontend (React, Angular)** & **Backend (Laravel, Django, Spring Boot, Node.js)**  
-- ⚡ Passionate about **Performance Optimization, System Design & Automation**  
+- ⚡ Passionate about **Performance Optimization, System Design & Automation**
 
+# 🥋 Sports & Martial Arts
+🖤 **Black Belt in Taekwondo**  
 ---
 
 ## 🛠️ Tech Stack
