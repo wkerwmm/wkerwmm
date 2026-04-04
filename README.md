@@ -1,4 +1,4 @@
-<p align="center">
+9<p align="center">
   <img src="https://i.imgur.com/Iq9KzaH.png" alt="Kerem - Full Stack Developer" width="150"/>
 </p>
 
@@ -18,8 +18,6 @@
 - 💻 Experienced in **Frontend (React, Angular)** & **Backend (Laravel, Django, Spring Boot, Node.js)**  
 - ⚡ Passionate about **Performance Optimization, System Design & Automation**
 
-# 🥋 Sports & Martial Arts
-🖤 **Black Belt in Taekwondo**  
 ---
 
 ## 🛠️ Tech Stack
